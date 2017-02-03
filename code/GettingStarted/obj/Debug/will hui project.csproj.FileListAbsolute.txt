@@ -1,0 +1,68 @@
+C:\Users\亦诚\Desktop\新建文件夹 (2)\GettingStarted\obj\Debug\will hui project.csprojResolveAssemblyReference.cache
+C:\Users\亦诚\Desktop\新建文件夹 (2)\GettingStarted\obj\Debug\italy.baml
+C:\Users\亦诚\Desktop\新建文件夹 (2)\GettingStarted\obj\Debug\MainWindow.baml
+C:\Users\亦诚\Desktop\新建文件夹 (2)\GettingStarted\obj\Debug\brazil.baml
+C:\Users\亦诚\Desktop\新建文件夹 (2)\GettingStarted\obj\Debug\spain.baml
+C:\Users\亦诚\Desktop\新建文件夹 (2)\GettingStarted\obj\Debug\italy.g.cs
+C:\Users\亦诚\Desktop\新建文件夹 (2)\GettingStarted\obj\Debug\MainWindow.g.cs
+C:\Users\亦诚\Desktop\新建文件夹 (2)\GettingStarted\obj\Debug\brazil.g.cs
+C:\Users\亦诚\Desktop\新建文件夹 (2)\GettingStarted\obj\Debug\spain.g.cs
+C:\Users\亦诚\Desktop\新建文件夹 (2)\GettingStarted\obj\Debug\App.g.cs
+C:\Users\亦诚\Desktop\新建文件夹 (2)\GettingStarted\obj\Debug\GettingStarted_MarkupCompile.cache
+C:\Users\亦诚\Desktop\新建文件夹 (2)\GettingStarted\obj\Debug\GettingStarted.g.resources
+C:\Users\亦诚\Desktop\新建文件夹 (2)\GettingStarted\obj\Debug\GettingStarted.Properties.Resources.resources
+C:\Users\亦诚\Desktop\新建文件夹 (2)\GettingStarted\obj\Debug\will hui project.csproj.GenerateResource.Cache
+C:\Users\亦诚\Desktop\新建文件夹 (2)\GettingStarted\obj\Debug\GettingStarted.exe
+C:\Users\亦诚\Desktop\新建文件夹 (2)\GettingStarted\bin\Debug\GettingStarted.exe.config
+C:\Users\亦诚\Desktop\新建文件夹 (2)\GettingStarted\bin\Debug\GettingStarted.exe
+C:\Users\亦诚\Desktop\新建文件夹 (2)\GettingStarted\bin\Debug\GettingStarted.pdb
+C:\Users\亦诚\Desktop\新建文件夹 (2)\GettingStarted\obj\Debug\GettingStarted.pdb
+C:\Users\亦诚\Desktop\新建文件夹 (2)\GettingStarted\obj\Debug\kean.baml
+C:\Users\亦诚\Desktop\新建文件夹 (2)\GettingStarted\obj\Debug\kean.g.cs
+C:\Users\亦诚\Desktop\新建文件夹 (2)\GettingStarted\obj\Debug\GettingStarted_Content.g.cs
+C:\Users\lenovo\Desktop\桌面\kinect project will and hui\GettingStarted\bin\Debug\GettingStarted.exe.config
+C:\Users\lenovo\Desktop\桌面\kinect project will and hui\GettingStarted\obj\Debug\GettingStarted.exe
+C:\Users\lenovo\Desktop\桌面\kinect project will and hui\GettingStarted\obj\Debug\GettingStarted.pdb
+C:\Users\lenovo\Desktop\桌面\kinect project will and hui\GettingStarted\obj\Debug\will hui project.csprojResolveAssemblyReference.cache
+C:\Users\lenovo\Desktop\桌面\kinect project will and hui\GettingStarted\obj\Debug\italy.baml
+C:\Users\lenovo\Desktop\桌面\kinect project will and hui\GettingStarted\obj\Debug\kean.baml
+C:\Users\lenovo\Desktop\桌面\kinect project will and hui\GettingStarted\obj\Debug\MainWindow.baml
+C:\Users\lenovo\Desktop\桌面\kinect project will and hui\GettingStarted\obj\Debug\brazil.baml
+C:\Users\lenovo\Desktop\桌面\kinect project will and hui\GettingStarted\obj\Debug\spain.baml
+C:\Users\lenovo\Desktop\桌面\kinect project will and hui\GettingStarted\obj\Debug\italy.g.cs
+C:\Users\lenovo\Desktop\桌面\kinect project will and hui\GettingStarted\obj\Debug\kean.g.cs
+C:\Users\lenovo\Desktop\桌面\kinect project will and hui\GettingStarted\obj\Debug\MainWindow.g.cs
+C:\Users\lenovo\Desktop\桌面\kinect project will and hui\GettingStarted\obj\Debug\brazil.g.cs
+C:\Users\lenovo\Desktop\桌面\kinect project will and hui\GettingStarted\obj\Debug\spain.g.cs
+C:\Users\lenovo\Desktop\桌面\kinect project will and hui\GettingStarted\obj\Debug\App.g.cs
+C:\Users\lenovo\Desktop\桌面\kinect project will and hui\GettingStarted\obj\Debug\GettingStarted_Content.g.cs
+C:\Users\lenovo\Desktop\桌面\kinect project will and hui\GettingStarted\obj\Debug\GettingStarted_MarkupCompile.cache
+C:\Users\lenovo\Desktop\桌面\kinect project will and hui\GettingStarted\obj\Debug\GettingStarted.g.resources
+C:\Users\lenovo\Desktop\桌面\kinect project will and hui\GettingStarted\obj\Debug\GettingStarted.Properties.Resources.resources
+C:\Users\lenovo\Desktop\桌面\kinect project will and hui\GettingStarted\obj\Debug\will hui project.csproj.GenerateResource.Cache
+C:\Users\lenovo\Desktop\桌面\kinect project will and hui\GettingStarted\bin\Debug\GettingStarted.exe
+C:\Users\lenovo\Desktop\桌面\kinect project will and hui\GettingStarted\bin\Debug\GettingStarted.pdb
+C:\Users\lenovo\Desktop\桌面\kinect project will and hui\GettingStarted\obj\Debug\Face.baml
+C:\Users\lenovo\Desktop\桌面\kinect project will and hui\GettingStarted\obj\Debug\Face.g.cs
+I:\K4W\code\GettingStarted\bin\Debug\GettingStarted.exe.config
+I:\K4W\code\GettingStarted\obj\Debug\GettingStarted.exe
+I:\K4W\code\GettingStarted\obj\Debug\GettingStarted.pdb
+I:\K4W\code\GettingStarted\obj\Debug\will hui project.csprojResolveAssemblyReference.cache
+I:\K4W\code\GettingStarted\obj\Debug\FaceTrackingViewer.baml
+I:\K4W\code\GettingStarted\obj\Debug\italy.baml
+I:\K4W\code\GettingStarted\obj\Debug\kean.baml
+I:\K4W\code\GettingStarted\obj\Debug\MainWindow.baml
+I:\K4W\code\GettingStarted\obj\Debug\brazil.baml
+I:\K4W\code\GettingStarted\obj\Debug\spain.baml
+I:\K4W\code\GettingStarted\obj\Debug\Face.g.cs
+I:\K4W\code\GettingStarted\obj\Debug\FaceTrackingViewer.g.cs
+I:\K4W\code\GettingStarted\obj\Debug\italy.g.cs
+I:\K4W\code\GettingStarted\obj\Debug\kean.g.cs
+I:\K4W\code\GettingStarted\obj\Debug\MainWindow.g.cs
+I:\K4W\code\GettingStarted\obj\Debug\brazil.g.cs
+I:\K4W\code\GettingStarted\obj\Debug\spain.g.cs
+I:\K4W\code\GettingStarted\obj\Debug\App.g.cs
+I:\K4W\code\GettingStarted\obj\Debug\GettingStarted_Content.g.cs
+I:\K4W\code\GettingStarted\obj\Debug\GeneratedInternalTypeHelper.g.cs
+I:\K4W\code\GettingStarted\obj\Debug\GettingStarted_MarkupCompile.cache
+I:\K4W\code\GettingStarted\obj\Debug\GettingStarted_MarkupCompile.lref

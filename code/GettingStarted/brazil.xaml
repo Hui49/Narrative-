@@ -1,0 +1,47 @@
+﻿<Window x:Class="GettingStarted.brazil"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:k="http://schemas.microsoft.com/kinect/2013" 
+        Title="brazil" Height="850" Width="1500" WindowState="Maximized">
+    <Window.Background>
+        <ImageBrush ImageSource="images/football.png"/>
+    </Window.Background>
+    <Grid>
+
+        <k:KinectUserViewer VerticalAlignment="Top" HorizontalAlignment="Center" k:KinectRegion.KinectRegion="{Binding ElementName=kinectRegion}" Height="100" UserColoringMode="Manual" />
+        <k:KinectRegion Name="kinectRegion">
+            <Grid>
+                <k:KinectCircleButton  HorizontalAlignment="Right" Height="139" VerticalAlignment="Top" Click="ButtonOnClick1" Margin="0,647,1213.6,0" Width="166" >
+                    <Image Height="69" Width="58" Source="images/3.png"/>
+                </k:KinectCircleButton>
+
+                <k:KinectScrollViewer HorizontalScrollBarVisibility="Disabled" VerticalScrollBarVisibility="Auto" VerticalAlignment="Bottom" Height="721" Margin="751,0,4.6,53">
+                    <StackPanel Orientation="Horizontal" Name="scrollContent1" Height="1620" RenderTransformOrigin="0.5,0.5" Width="532" >
+                        <TextBox TextWrapping="Wrap" Width="531" Text="brazil
+The Brazil national football team (Portuguese: Seleo Brasileira) represents Brazil in international men's football. Brazil is administered by the Brazilian Football Confederation (CBF), the governing body for football in Brazil. They have been a member of the International Federation of Association Football (FIFA) since 1923 and member of the South American Football Confederation (CONMEBOL) since 1916.
+
+Brazil is the most successful national football team in the history of the FIFA World Cup, with five championships: 1958, 1962, 1970, 1994 and 2002. They are also the most successful team in the FIFA Confederations Cup with four titles. Brazil are the current holders of the FIFA Confederations Cup after winning the 1997, 2005, 2009, and 2013 edition of the tournament. Brazil is the only national team to have played in every World Cup.
+
+Brazil national football team has the all-time highest average Football Elo Ranking in the world with 2010.8, and the second all-time highest Football Elo Ranking in the world, with 2153 in 1962, just behind the Hungarian Golden Team of 1954. Its achievements have led CONMEBOL to consider it as the most glorious and successful of all national teams from South America and the World.The national team are currently ranked number 1 in the World Football Elo Ratings and 9 in the FIFA World Ranking.
+
+
+
+" Margin="0,0,0,-16" FontSize="36" FontFamily="Microsoft Yi Baiti">
+                            <TextBox.Background>
+                                <LinearGradientBrush EndPoint="0.5,1" MappingMode="RelativeToBoundingBox" StartPoint="0.5,0">
+                                    <GradientStop Color="#FF7E9A52"/>
+                                    <GradientStop Color="White" Offset="0.586"/>
+                                </LinearGradientBrush>
+                            </TextBox.Background>
+                        </TextBox>
+                    </StackPanel>
+
+                </k:KinectScrollViewer>
+                <Image HorizontalAlignment="Left" Height="155" Margin="81,46,0,0" VerticalAlignment="Top" Width="133" Source="images/logo1.png"/>
+                <Image HorizontalAlignment="Left" Height="240" Margin="267,143,0,0" VerticalAlignment="Top" Width="440" Source="images/people1.png" Stretch="Fill"/>
+                <Image HorizontalAlignment="Left" Height="263" Margin="267,405,0,0" VerticalAlignment="Top" Width="440" Source="images/team1.png" Stretch="Fill"/>
+            </Grid>
+        </k:KinectRegion>
+
+    </Grid>
+</Window>

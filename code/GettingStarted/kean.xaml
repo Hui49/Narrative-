@@ -1,0 +1,41 @@
+﻿<Window x:Class="GettingStarted.kean"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:k="http://schemas.microsoft.com/kinect/2013" 
+        Title="kean" Height="850" Width="1500" ShowInTaskbar="False" WindowState="Maximized">
+    <Window.Background>
+        <ImageBrush ImageSource="images/football.png"/>
+    </Window.Background>
+    <Grid>
+
+        <k:KinectUserViewer VerticalAlignment="Top" HorizontalAlignment="Center" k:KinectRegion.KinectRegion="{Binding ElementName=kinectRegion}" Height="100" UserColoringMode="Manual" />
+        <k:KinectRegion Name="kinectRegion">
+            <Grid>
+                <k:KinectCircleButton  HorizontalAlignment="Right" Height="139" VerticalAlignment="Top" Click="ButtonOnClick1" Margin="0,647,1213.6,0" Width="166" >
+                    <Image Height="69" Width="58" Source="images/3.png"/>
+                </k:KinectCircleButton>
+                <MediaElement HorizontalAlignment="Left" Height="249" Margin="267,419,0,152" VerticalAlignment="center" Width="440" Source="C:\Users\lenovo\Desktop\Happy Newyear.wmv"/>
+                <k:KinectScrollViewer HorizontalScrollBarVisibility="Disabled" VerticalScrollBarVisibility="Auto" VerticalAlignment="Bottom" Height="721" Margin="751,0,4.6,53">
+                    <StackPanel Orientation="Horizontal" Name="scrollContent" Height="1620" RenderTransformOrigin="0.5,0.5" Width="532" >
+                        <TextBox TextWrapping="Wrap" Width="531" Text="Kean University is a coeducational, public research university located in Union and Hillside, New Jersey, United States. Kean University serves its students in the liberal arts, the sciences, and the professions and is best known for its programs in the humanities and social sciences and in education, graduating the most teachers in the state of New Jersey annually.[4] Kean is also noted for the physical therapy program which it holds in conjunction with the University of Medicine and Dentistry of New Jersey.[5]
+
+Kean University was founded in 1855 in Newark, New Jersey, as the Newark Normal School. Initially established for the exclusive purpose of being a teacher-education college it became New Jersey State Teachers College in 1937. In 1958, following a post-war boom of students and increasing demands for a more comprehensive curriculum, the college was relocated from Newark to Union Township, site of the Kean family's ancestral home at Liberty Hall. After its move to the historic Livingston-Kean Estate, which includes the entire Liberty Hall acreage, the historic James Townley House, and Kean Hall, which historically housed the library of United States Senator Hamilton Fish Kean and served as a political meeting place, the school became Newark State College, a comprehensive institution providing a full range of academic programs and majors. Renamed Kean College of New Jersey in 1973, the institution earned university status on September 26, 1997, becoming Kean University of New Jersey.[5] Kean University has subsequently grown to become the third largest institution of higher education in New Jersey and currently comprises five undergraduate colleges and the Nathan Weiss Graduate College. Kean University also hosts numerous research institutions, perhaps most prominently the New Jersey Center for Science, Technology and Mathematics, the Kean University Human Rights Institute, the Holocaust Recourse Center, the Wynona Moore Lipman Ethnic Studies Center, and Liberty Hall. In recent years Kean has expanded to a satellite campus in Toms River, New Jersey and is planning a foreign campus in the People's Republic of China.
+" Margin="0,0,0,-16" FontSize="36" FontFamily="Microsoft Yi Baiti">
+                            <TextBox.Background>
+                                <LinearGradientBrush EndPoint="0.5,1" MappingMode="RelativeToBoundingBox" StartPoint="0.5,0">
+                                    <GradientStop Color="#FF4550E6"/>
+                                    <GradientStop Color="White" Offset="0.746"/>
+                                </LinearGradientBrush>
+                            </TextBox.Background>
+                        </TextBox>
+                    </StackPanel>
+
+                </k:KinectScrollViewer>
+                <Image HorizontalAlignment="Left" Height="155" Margin="81,46,0,0" VerticalAlignment="Top" Width="133" Source="images/Untitled-1.png"/>
+                <Image HorizontalAlignment="Left" Height="240" Margin="267,143,0,0" VerticalAlignment="Top" Width="440" Source="images/m (2).png" Stretch="Fill"/>
+
+            </Grid>
+        </k:KinectRegion>
+
+    </Grid>
+</Window>

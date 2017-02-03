@@ -1,0 +1,41 @@
+﻿<Window x:Class="GettingStarted.spain"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:k="http://schemas.microsoft.com/kinect/2013" 
+        Title="italy" Height="850" Width="1500" ShowInTaskbar="False" WindowState="Maximized">
+    <Window.Background>
+        <ImageBrush ImageSource="images/football.png"/>
+    </Window.Background>
+    <Grid>
+
+        <k:KinectUserViewer VerticalAlignment="Top" HorizontalAlignment="Center" k:KinectRegion.KinectRegion="{Binding ElementName=kinectRegion}" Height="100" UserColoringMode="Manual" />
+        <k:KinectRegion Name="kinectRegion">
+            <Grid>
+                <k:KinectCircleButton  HorizontalAlignment="Right" Height="139" VerticalAlignment="Top" Click="ButtonOnClick1" Margin="0,647,1213.6,0" Width="166" >
+                    <Image Height="69" Width="58" Source="images/3.png"/>
+                </k:KinectCircleButton>
+
+                <k:KinectScrollViewer HorizontalScrollBarVisibility="Disabled" VerticalScrollBarVisibility="Auto" VerticalAlignment="Bottom" Height="721" Margin="751,0,4.6,53">
+                    <StackPanel Orientation="Horizontal" Name="scrollContent" Height="1620" RenderTransformOrigin="0.5,0.5" Width="532" >
+                        <TextBox TextWrapping="Wrap" Width="531" Text="spain
+The Spain national football team (Spanish: Selecci de fbol de Espa)[a] represents Spain in International association football and is controlled by the Royal Spanish Football Federation, the governing body for football in Spain. The current head coach is Vicente del Bosque. The Spanish side is commonly referred to as La Roja ('The Red [One]'), La Furia Roja ('The Red Fury'), La Furia Espa駉la ('The Spanish Fury') or simply La Furia ('The Fury'.[4][5] Spain became a member of FIFA in 1904 even though the Spanish Football Federation was first established in 1909. Spain's national team debuted in 1920. Since then the Spanish national team have participated in a total of thirteen of nineteen FIFA World Cup and nine of fourteen European Championships. It has a total of 73 international titles in senior and youth teams.
+
+Spain are the reigning World and European champions, having won the 2010 World Cup and Euro 2012. The national team are currently ranked number 2 in the World Football Elo Ratings[6] and 1 in the FIFA World Ranking. They also won Euro 2008, making them the only national team so far with three consecutive wins of either the applicable continental championship or the World Cup. Spain currently holds the record for the most consecutive competitive matches unbeaten with 29. These achievements have led many commentators, experts and former players to rank the current Spanish team as the best ever international side in world football" Margin="0,0,0,-16" FontSize="36" FontFamily="Microsoft Yi Baiti">
+                            <TextBox.Background>
+                                <LinearGradientBrush EndPoint="0.5,1" MappingMode="RelativeToBoundingBox" StartPoint="0.5,0">
+                                    <GradientStop Color="#FFC02121"/>
+                                    <GradientStop Color="White" Offset="0.746"/>
+                                </LinearGradientBrush>
+                            </TextBox.Background>
+                        </TextBox>
+                    </StackPanel>
+
+                </k:KinectScrollViewer>
+                <Image HorizontalAlignment="Left" Height="155" Margin="81,46,0,0" VerticalAlignment="Top" Width="133" Source="images/logo3.png"/>
+                <Image HorizontalAlignment="Left" Height="240" Margin="267,143,0,0" VerticalAlignment="Top" Width="440" Source="images/people3.png" Stretch="Fill"/>
+                <Image HorizontalAlignment="Left" Height="263" Margin="267,405,0,0" VerticalAlignment="Top" Width="440" Source="images/person3.png" Stretch="Fill"/>
+            </Grid>
+        </k:KinectRegion>
+
+    </Grid>
+</Window>
